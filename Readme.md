@@ -1,7 +1,7 @@
-## Conversão de tempo em dias, horas, minutos e segundos
+## ConversÃ£o de tempo em dias, horas, minutos e segundos
 
-### ?? Visão Geral
+### ğŸ’¡ VisÃ£o Geral
 
-- O programa fora feito pensando em treinar os conceitos aprendidos até o momento em C. Juntei alguns aprendizados como funções, laços de repetição com uso do "Do/While" e lógica de programação.
+- O programa fora feito pensando em treinar os conceitos aprendidos atÃ© o momento em C. Juntei alguns aprendizados como funÃ§Ãµes, laÃ§os de repetiÃ§Ã£o com uso do "Do/While" e lÃ³gica de programaÃ§Ã£o.
 
-- A ideia de criar um programa que satisfizesse o meu pensamento "Quantas horas será que tem 10 dias?" ou "Quantos segundos tem um dia?" deu origem à esse conversor de tempo.
+- A ideia de criar um programa que satisfizesse o meu pensamento "Quantas horas serÃ¡ que tem 10 dias?" ou "Quantos segundos tem um dia?" deu origem Ã  esse conversor de tempo.
